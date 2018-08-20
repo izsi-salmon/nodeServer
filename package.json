@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Node HTML exercise",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon js/index.js",
+    "getFiles": "npm install"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Isabelle Salmon",
+  "license": "ISC"
+}
